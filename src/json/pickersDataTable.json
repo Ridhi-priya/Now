@@ -1,0 +1,35 @@
+[
+  {
+    "Sno": 1,
+    "Id": 66,
+    "Name": "picker",
+    "image": "user.jpg",
+    "Phoneno": "6787856789",
+    "Email": "spicker@gmail.com",
+    "Address": "S-60, Haware Fant...",
+    "Status": "Active",
+    "Action": ":"
+  },
+  {
+    "Sno": 2,
+    "Id": 82,
+    "Name": "Ranjit kumar",
+    "image": "user.jpg",
+    "Phoneno": "6787665685",
+    "Email": "rajtimes@gmail.com",
+    "Address": "902 Riddhi Siddhi...",
+    "Status": "Active",
+    "Action": ":"
+  },
+  {
+    "Sno": 3,
+    "Id": 101,
+    "Name": "Dharmpurikar",
+    "image": "user.jpg",
+    "Phoneno": "8786345667",
+    "Email": "prem@gmail.com",
+    "Address": "S-60,Khaghar",
+    "Status": "Active",
+    "Action": ":"
+  }
+]

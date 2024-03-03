@@ -1,0 +1,26 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+.nav {
+  background-color: #ffff;
+  margin: 10px;
+}
+.btn {
+  background-color: yellow;
+  border-radius: 5px;
+  border: none;
+  font-weight: bold;
+  margin: 1rem;
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.btn:hover {
+  opacity: 0.7;
+}
+
+.btn:focus {
+  outline: none;
+}

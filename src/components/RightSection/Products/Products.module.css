@@ -1,0 +1,197 @@
+.Products {
+  width: 78%;
+  justify-content: flex-end;
+}
+
+.btndatasection {
+  background-color: #ffff;
+  margin: 10px;
+}
+.First_Head {
+  text-align: center;
+}
+
+.nav {
+  background-color: #ffff;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.formsection {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+}
+.secondnav {
+  display: flex;
+  justify-content: flex-end;
+  margin: 30px 10px;
+  background-color: #ffff;
+  margin: 1rem;
+  padding: 0.8rem 1rem;
+}
+
+.btn,
+.submitbtn,
+.addbtn {
+  border-radius: 5px;
+  border: none;
+  font-weight: bold;
+  margin: 1rem;
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.btn:hover,
+.submitbtn:hover,
+.addbtn:hover {
+  opacity: 0.7;
+}
+
+.btn:focus,
+.submitbtn:focus,
+.addbtn:focus {
+  outline: none;
+}
+
+.addbtn {
+  margin: 0 1rem !important;
+}
+.submitbtn,
+.addbtn {
+  background-color: yellow;
+}
+.buttons {
+  margin-left: 370px !important;
+}
+.mainform_background {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.CancelTwoToneIcon {
+  cursor: pointer;
+}
+
+.mainform {
+  border: 3px double;
+  width: 45vw;
+  height: 700px;
+  background-color: #fff;
+  border-radius: 5px;
+  margin: 5px;
+  overflow-y: scroll;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.mainform::-webkit-scrollbar {
+  width: 8px;
+}
+
+.mainform::-webkit-scrollbar-thumb {
+  background-color: rgb(169, 167, 167);
+  border-radius: 10px;
+}
+
+.mainform::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+.cross_section {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.a {
+  margin: 10px;
+}
+
+.CancelTwoToneIcon {
+  cursor: pointer;
+}
+.container {
+  height: 250px;
+  width: 250px;
+  margin: auto;
+  border-radius: 10px;
+  background-color: rgb(227, 222, 222);
+}
+.heading {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 1rem;
+}
+
+.imgholder {
+  width: 120px;
+  height: 120px;
+  margin: auto;
+  border: 3px solid black;
+  border-radius: 5px;
+  margin-top: 0.8rem;
+}
+.img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+.label {
+  width: 100%;
+  margin-top: 0.8rem;
+  display: flex;
+  justify-content: center;
+}
+.imageupload {
+  margin: auto;
+  width: 200px;
+  height: 40px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchinput {
+  border: none;
+}
+.dropdown {
+  margin-left: 10px;
+}
+.search {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  justify-content: center;
+  position: relative;
+}
+.search i {
+  position: absolute;
+  left: 5px;
+}
+.TextareaAutosize {
+  width: 300px;
+  height: 45px !important;
+  border-radius: 5px;
+  outline: none;
+  padding: 5px;
+}
+
+.scroll {
+  display: flex;
+  align-items: center;
+}
+.scroll2 {
+  width: 50vw;
+  overflow-x: scroll;
+}

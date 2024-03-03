@@ -1,0 +1,8 @@
+.logout {
+  display: flex;
+  align-items: center;
+}
+.logouttext {
+  color: #666;
+  margin: 10px;
+}

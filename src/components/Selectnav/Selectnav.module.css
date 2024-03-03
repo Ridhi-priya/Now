@@ -1,0 +1,13 @@
+.formsection {
+  width: 95%;
+  height: 80px;
+  margin: 10px 10px;
+  padding: 10px 20px;
+  background-color: black;
+  border-radius: 15px;
+}
+.contain {
+  display: flex;
+  flex-direction: column;
+  float: right;
+}

@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+body {
+  background-color: #eee;
+  font-family: 'Open Sans', sans-serif;
+}
+th,
+td {
+  width: 150px;
+  padding: 5px 20px;
+  text-align: start;
+}
+
+svg.MuiSvgIcon-root {
+  color: gray;
+}
+
+fieldset.MuiOutlinedInput-notchedOutline {
+  border: none;
+}
+
+.css-1nrlq1o-MuiFormControl-root {
+  border: 1px solid rgb(97, 97, 97) !important;
+  border-radius: 4px;
+}
+
+.MuiTextField-root {
+  border: 1px solid rgb(97, 97, 97) !important;
+  border-radius: 4px;
+}
+
+.highlightOption {
+  background-color: transparent !important;
+  color: black !important;
+}
+
+.multiSelectContainer li:hover {
+  background-color: yellow !important;
+  color: black !important;
+}
+
+.multiSelectContainer input {
+  margin: 10px !important;
+  padding: 5px !important;
+  font-size: 15px;
+}
+
+.searchWrapper {
+  border: 1px solid #5a5858 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.closeIcon {
+  background-color: #272626 !important;
+  border-radius: 50% !important;
+}
+
+.MuiFormGroup-root {
+  flex-direction: row !important;
+}

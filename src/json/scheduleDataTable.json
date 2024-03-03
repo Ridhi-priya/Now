@@ -1,0 +1,29 @@
+[
+  {
+    "Day": "Thursday",
+    "DeliveryMode": "Bike",
+    "StartTime": "00:00",
+    "EndTime": "23:59",
+    "MaxOrders": "4000",
+    "LockStatus": "Open",
+    "Action": ":"
+  },
+  {
+    "Day": "Monday",
+    "DeliveryMode": "Bike",
+    "StartTime": "00:00",
+    "EndTime": "23:59",
+    "MaxOrders": "300",
+    "LockStatus": "Open",
+    "Action": ":"
+  },
+  {
+    "Day": "Tuesday",
+    "DeliveryMode": "Bike",
+    "StartTime": "00:00",
+    "EndTime": "23:59",
+    "MaxOrders": "100",
+    "LockStatus": "Open",
+    "Action": ":"
+  }
+]

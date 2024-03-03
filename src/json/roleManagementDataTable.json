@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "Name": "Santosh",
+    "Email": "subAdmin11@yopmail.com",
+    "PhoneNo": "7837905578",
+    "Status": "Active",
+    "Action": ":"
+  },
+  {
+    "id": 2,
+    "Name": "parminder",
+    "Email": "parminder@gmail.com",
+    "PhoneNo": "9874523658",
+    "Status": "Active",
+    "Action": ":"
+  },
+  {
+    "id": 3,
+    "Name": "garima",
+    "Email": "yogu@gmail.com",
+    "PhoneNo": "7021542588",
+    "Status": "Active",
+    "Action": ":"
+  }
+]

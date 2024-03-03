@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "StoreName": "Roma electronics",
+    "Email": "subAdmin11@yopmail.com",
+    "PhoneNo": "7837905578",
+    "Address": "Dombivli, Maharas...",
+    "Status": "Active",
+    "Action": ":"
+  },
+  {
+    "id": 2,
+    "StoreName": "RR electronics",
+    "Email": "parminder@gmail.com",
+    "PhoneNo": "9874523658",
+    "Address": "Pune, Maharashtra...",
+    "Status": "Active",
+    "Action": ":"
+  },
+  {
+    "id": 3,
+    "StoreName": "Vijay sales",
+    "Email": "yogu@gmail.com",
+    "PhoneNo": "7021542588",
+    "Address": "Chandigarh, Punja...",
+    "Status": "Active",
+    "Action": ":"
+  }
+]

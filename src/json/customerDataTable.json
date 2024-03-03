@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "Name": "Hemant Patil",
+    "Email": "hemant.patil@oyelabs.com",
+    "PhoneNo": "+91 9028302753",
+    "Address": "Dada Darshan Chs,...",
+    "WalletMoney": "0",
+    "Status": "Active",
+    "Action": ":"
+  },
+  {
+    "id": 2,
+    "Name": "Ashmeet Test",
+    "Email": "ashmeetsetia123@gmail.com",
+    "PhoneNo": "+91 8360739432",
+    "Address": "Hazaribagh, Jharkhand",
+    "WalletMoney": "500",
+    "Status": "Active",
+    "Action": ":"
+  },
+  {
+    "id": 3,
+    "Name": "Ra MA",
+    "Email": "misapathan@gmail.com",
+    "PhoneNo": "+91 8689985086",
+    "Address": "Casa Fontana Down...",
+    "WalletMoney": "70",
+    "Status": "Active",
+    "Action": ":"
+  },
+  {
+    "id": 4,
+    "Name": "Gayatri Nn",
+    "Email": "gayatri@gmail.com",
+    "PhoneNo": "+91 8308301890",
+    "Address": "Unnamed Road, Ant...",
+    "WalletMoney": "5000",
+    "Status": "Active",
+    "Action": ":"
+  }
+]

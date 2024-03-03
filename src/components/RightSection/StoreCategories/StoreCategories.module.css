@@ -1,0 +1,151 @@
+.StoreCategories {
+  width: 78%;
+  justify-content: flex-end;
+}
+.TableContent {
+  background-color: #ffff;
+  margin: 10px;
+}
+
+thead tr {
+  background-color: black;
+}
+thead tr th {
+  color: rgb(126, 121, 121);
+}
+.First_Head {
+  text-align: center;
+}
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+.nav {
+  background-color: #ffff;
+  margin: 10px;
+}
+img {
+  height: 50px;
+  width: 50px;
+  object-fit: contain;
+}
+/* button css starts */
+.btn,
+.submitbtn,
+.addbtn {
+  border-radius: 5px;
+  border: none;
+  font-weight: bold;
+  margin: 1rem;
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.btn:hover,
+.submitbtn:hover,
+.addbtn:hover {
+  opacity: 0.7;
+}
+
+.btn:focus,
+.submitbtn:focus,
+.addbtn:focus {
+  outline: none;
+}
+.submitbtn,
+.addbtn {
+  background-color: yellow;
+}
+/* button css ends */
+.buttons {
+  margin-left: 370px !important;
+}
+/* form css starts */
+.mainform_background {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.CancelTwoToneIcon {
+  cursor: pointer;
+}
+
+.mainform {
+  border: 3px double;
+  width: 45vw;
+  height: 98vh;
+  background-color: #fff;
+  border-radius: 5px;
+  margin: 5px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.cross_section {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.cross_section {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.a {
+  margin: 10px;
+}
+
+.CancelTwoToneIcon {
+  cursor: pointer;
+}
+.container {
+  height: 250px;
+  width: 250px;
+  margin: auto;
+  border-radius: 10px;
+  background-color: rgb(227, 222, 222);
+}
+.heading {
+  font-size: 1.7rem;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 1rem;
+}
+
+.imgholder {
+  width: 120px;
+  height: 120px;
+  margin: auto;
+  border: 3px solid black;
+  border-radius: 5px;
+  margin-top: 0.8rem;
+}
+.img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+.label {
+  width: 100%;
+  margin-top: 0.8rem;
+  display: flex;
+  justify-content: center;
+}
+.imageupload {
+  margin: auto;
+  width: 200px;
+  height: 40px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* form css ends */

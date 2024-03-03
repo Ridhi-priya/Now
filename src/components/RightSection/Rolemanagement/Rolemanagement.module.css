@@ -1,0 +1,162 @@
+.Rolemanagement {
+  width: 78%;
+  justify-content: flex-end;
+}
+.TableContent {
+  background-color: #ffff;
+  margin: 10px;
+}
+
+thead tr {
+  background-color: black;
+}
+thead tr th {
+  color: rgb(126, 121, 121);
+}
+.First_Head {
+  width: 50px !important;
+}
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+.nav {
+  background-color: #ffff;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  /* height: 40px; */
+  justify-content: center;
+  position: relative;
+}
+.search i {
+  position: absolute;
+  left: 5px;
+}
+input {
+  border: 0;
+  outline: none;
+  background: rgb(200, 201, 192);
+  border-radius: 5px;
+  height: 35px;
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  box-sizing: border-box;
+  padding-left: 40px;
+  color: #4b4747;
+}
+
+.cross_section {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.details {
+  margin: 10px;
+}
+.a {
+  margin: 20px;
+  height: 85vh;
+}
+
+.btn,
+.submitbtn,
+.addbtn {
+  border-radius: 5px;
+  border: none;
+  font-weight: bold;
+  margin: 1rem;
+  padding: 0.7rem 1.4rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.CancelTwoToneIcon {
+  cursor: pointer;
+}
+
+.btn:hover,
+.submitbtn:hover,
+.addbtn:hover {
+  opacity: 0.7;
+}
+
+.btn:focus,
+.submitbtn:focus,
+.addbtn:focus {
+  outline: none;
+}
+.submitbtn,
+.addbtn {
+  background-color: yellow;
+}
+
+/* /////////////////Form Styles///////////////////// */
+
+.mainform_background {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.mainform {
+  border: 3px double;
+  width: 45vw;
+  height: 97vh;
+  background-color: #fff;
+  border-radius: 5px;
+  margin: 5px;
+  /* //////// */
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.cross_section {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.details {
+  margin: 10px;
+}
+.a {
+  margin: 10px;
+}
+
+.btn,
+.submitbtn {
+  border-radius: 5px;
+  border: none;
+  font-weight: bold;
+  margin-right: 0;
+  padding: 0.7rem 1.4rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.CancelTwoToneIcon {
+  cursor: pointer;
+}
+
+.btn:focus,
+.submitbtn:focus {
+  outline: none;
+}
+.submitbtn {
+  background-color: yellow;
+}
+
+.buttons {
+  margin-left: 410px !important;
+}
+
+.app__dropdown {
+  width: 100%;
+}

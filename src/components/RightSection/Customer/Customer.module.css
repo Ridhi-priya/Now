@@ -1,0 +1,44 @@
+.Customer {
+  width: 78%;
+  justify-content: flex-end;
+}
+
+.nav {
+  background-color: #ffff;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.search i {
+  position: absolute;
+  left: 5px;
+}
+nav {
+  background-color: #ffff;
+  width: 96.5%;
+  padding: 10px;
+  margin: 0 10px;
+}
+.search {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  width: 200px;
+  justify-content: center;
+  position: relative;
+}
+.TableContent {
+  background-color: #ffff;
+  margin: 10px;
+}
+
+thead tr {
+  background-color: black;
+}
+thead tr th {
+  color: rgb(126, 121, 121);
+}
+.First_Head {
+  text-align: center;
+}
